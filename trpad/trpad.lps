@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="trpad.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="1134"/>
+        <CursorPos X="5" Y="1168"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="10">
+      <Position>
+        <Filename Value="trpad.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="trpad.pas"/>
+        <Caret Line="199" Column="20" TopLine="189"/>
+      </Position>
+      <Position>
+        <Filename Value="trpad.pas"/>
+        <Caret Line="298" Column="22" TopLine="289"/>
+      </Position>
+      <Position>
+        <Filename Value="trpad.pas"/>
+        <Caret Line="299" Column="17" TopLine="291"/>
+      </Position>
+      <Position>
+        <Filename Value="trpad.pas"/>
+        <Caret Line="199" Column="20" TopLine="192"/>
+      </Position>
+      <Position>
+        <Filename Value="trpad.pas"/>
+        <Caret Line="218" Column="27" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="trpad.pas"/>
+        <Caret Line="1047" Column="5" TopLine="1033"/>
+      </Position>
+      <Position>
+        <Filename Value="trpad.pas"/>
+        <Caret Line="303" Column="7" TopLine="296"/>
+      </Position>
+      <Position>
+        <Filename Value="trpad.pas"/>
+        <Caret Line="1047" Column="5" TopLine="1033"/>
+      </Position>
+      <Position>
+        <Filename Value="trpad.pas"/>
+        <Caret Line="304" Column="7" TopLine="298"/>
+      </Position>
+      <Position>
+        <Filename Value="trpad.pas"/>
+        <Caret Line="1028" Column="29" TopLine="1013"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
